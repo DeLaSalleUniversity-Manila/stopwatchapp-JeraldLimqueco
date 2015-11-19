@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.jerald.helloworld.Help"
+    android:background="#38ff44">
+
+    <TextView
+        android:text="\n\nHello World V2.4
+
+       \n\nThis App allows the user to share via SMS, EMAIL, FB, Twitter, WeChat and etc.
+
+        \n\nInstructions:\n1. Press Share \n2. Choose social networking site you want to share it.
+        \n\nFeatures:\n1. Facebook Sharing, SMS Sharing, Email Sharing, and etc\n\n3. Camera\n4. Grocery Store W/ Mini Database\n5. Stop Watch
+        \n\nSupport:\n Hello World is created By Jerald Limqueco
+        \n\nJerald Limqueco\njerald_limqueco@dlsu.edu.ph
+
+    "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
